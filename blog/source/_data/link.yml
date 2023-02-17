@@ -1,0 +1,15 @@
+- class_name: 我的其他链接
+  class_desc: 
+  link_list:
+    - name: 微博
+      link: https://weibo.com/u/1730501131
+      avatar: https://i2.hdslb.com/bfs/face/9b443c655cfbd28cd145037ffa1ac9a3e11bd9a6.jpg@240w_240h_1c_1s.webp
+      descr: 社交网站
+    - name: 推特
+      link: https://twitter.com/silentw5
+      avatar: https://twitter.com/silentw5/photo
+      descr: 社交网站
+    - name: bilibili
+      link: https://space.bilibili.com/521264
+      avatar: https://i2.hdslb.com/bfs/face/9b443c655cfbd28cd145037ffa1ac9a3e11bd9a6.jpg@240w_240h_1c_1s.webp
+      descr: 视频网站
